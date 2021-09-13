@@ -6,12 +6,12 @@ Tabela de Conteúdos
 <!--ts-->
 
 * [Sobre](#Sobre)
-* [Tabela de Conteúdo](#tabela-de-conteudo)
+* [Paginas Desenvolvidas](#tabela-de-conteudo)
 * [Tecnologias](#tecnologias)
 
 <!--te-->
 
-Conteúdo
+Paginas Desenvolvidas
 ============
 <section id="Sobre"> Este repositório contem as paginas desenvolvidas no curso Responsive Web Design do Freecodecamp </section>
 
