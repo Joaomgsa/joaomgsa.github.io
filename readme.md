@@ -1,6 +1,5 @@
 <h3> Fala Pessoal, bem vindos ao meu github </h3>
 
-<p align="center"> Essa pagina faz parte de um projeto para o freecodecamp (Responsive web design ) e foram usados apenas conhecimentos em html e CSS </p>
 
 Tabela de Conteúdos
 ========================
@@ -11,3 +10,15 @@ Tabela de Conteúdos
 * [Tecnologias](#tecnologias)
 
 <!--te-->
+
+<section id="Sobre"> Este repositório contem as paginas desenvolvidas no curso Responsive Web Design do Freecodecamp </section>
+
+<section id="tabela-de-conteudo"> Como parte do desafio final do curso era necessário criar 5 páginas: 
+    <ul>
+        <li>Tribute page</li>
+        <li>Survey Form
+        <li>Product landing page
+        <li>Technical Documentarion page 
+        <li>Personal portifolio page. 
+    </ul>
+</section>
