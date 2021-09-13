@@ -1,4 +1,4 @@
-<h3> Fala Pessoal, bem vindos ao meu github </h3>
+ Fala Pessoal, bem vindos ao meu repositório inicial do github.
 
 
 Tabela de Conteúdos
@@ -11,9 +11,14 @@ Tabela de Conteúdos
 
 <!--te-->
 
+Sobre
+============
+Este repositório contem as paginas desenvolvidas no curso Responsive Web Design. Ele é disponibilizado gratuitamente no <a href="https://www.freecodecamp.org/learn/responsive-web-design/" target="_blank">FreecodeCamp</a>
+
+
 Paginas-Desenvolvidas
 ============
-<section id="Sobre"> Este repositório contem as paginas desenvolvidas no curso Responsive Web Design do Freecodecamp </section>
+
 
 <section id="tabela-de-conteudo"> Como parte do desafio final do curso era necessário criar 5 páginas: 
     <ul>
