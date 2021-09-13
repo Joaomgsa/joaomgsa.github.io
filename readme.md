@@ -6,7 +6,7 @@ Tabela de Conteúdos
 <!--ts-->
 
 * [Sobre](#Sobre)
-* [Paginas-Desenvolvidas](#Paginas-Desenvolvidas)
+* [Paginas-Desenvolvidas](#Paginas Desenvolvidas)
 * [Tecnologias](#tecnologias)
 
 <!--te-->
@@ -16,7 +16,7 @@ Sobre
 Este repositório contem as paginas desenvolvidas no curso Responsive Web Design. Ele é disponibilizado gratuitamente no <a href="https://www.freecodecamp.org/learn/responsive-web-design/" target="_blank">FreeCodeCamp</a>
 
 
-Paginas-Desenvolvidas
+Paginas Desenvolvidas
 ============
 
 
