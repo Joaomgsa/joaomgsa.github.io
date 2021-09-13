@@ -17,8 +17,8 @@ Paginas-Desenvolvidas
 
 <section id="tabela-de-conteudo"> Como parte do desafio final do curso era necessário criar 5 páginas: 
     <ul>
-        <li><a href="https://codepen.io/joaomgsa/pen/xxdvNNW">Tribute page</a></li>
-        <li>Survey Form
+        <li><a href="https://codepen.io/joaomgsa/pen/xxdvNNW" target="_blank">Tribute page</a></li>
+        <li><a href="https://codepen.io/joaomgsa/pen/jOwNpGy" target="_blank">Survey Form</a></li>
         <li>Product landing page
         <li>Technical Documentarion page 
         <li>Personal portifolio page. 
