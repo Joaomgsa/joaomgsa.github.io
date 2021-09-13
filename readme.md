@@ -5,7 +5,9 @@
 Tabela de Conteúdos
 ========================
 <!--ts-->
-*[Sobre](#Sobre)
-*[Tabela de Conteúdo](#tabela-de-conteudo)
-*[Tecnologias](#tecnologias)
+
+* [Sobre](#Sobre)
+* [Tabela de Conteúdo](#tabela-de-conteudo)
+* [Tecnologias](#tecnologias)
+
 <!--te-->
