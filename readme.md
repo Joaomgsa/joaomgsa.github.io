@@ -24,3 +24,7 @@ Paginas-Desenvolvidas
         <li>Personal portifolio page. 
     </ul>
 </section>
+
+Tecnologias
+=============
+O curso por ser uma formação inicial em desenvolvimento web apenas utiliza HTML5 e CSS3.
