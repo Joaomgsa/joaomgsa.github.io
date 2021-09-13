@@ -14,9 +14,7 @@ Tabela de Conteúdos
 Sobre
 ============
 Este repositório contem as paginas desenvolvidas no curso Responsive Web Design. Ele é disponibilizado gratuitamente no <a href="https://www.freecodecamp.org/learn/responsive-web-design/" target="_blank">FreeCodeCamp</a>
-<!--ts-->
-*[FCC](#https://www.freecodecamp.org/learn/responsive-web-design/)
-<!--te-->
+
 
 Paginas-Desenvolvidas
 ============
@@ -26,9 +24,9 @@ Paginas-Desenvolvidas
     <ul>
         <li><a href="https://codepen.io/joaomgsa/pen/xxdvNNW" target="_blank">Tribute page</a></li>
         <li><a href="https://codepen.io/joaomgsa/pen/jOwNpGy" target="_blank">Survey Form</a></li>
-        <li>Product landing page
-        <li>Technical Documentarion page 
-        <li>Personal portifolio page. 
+        <li><a href="https://codepen.io/joaomgsa/pen/OJgPMMM" target="_blank"> Product landing page</a>
+        <li><a href="https://codepen.io/joaomgsa/pen/OJgyMxJ" target="_blank">Technical Documentarion page</a>
+        <li><a href="https://codepen.io/joaomgsa/pen/NWgddXx" target="_blank">Personal portifolio page.</a> 
     </ul>
 </section>
 
