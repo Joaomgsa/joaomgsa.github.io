@@ -1,9 +1,10 @@
 /* Variaveis*/
 :root {
     --main-white: #f0f0f0;
-    --main-red: #be3144;
-    --main-blue: #45567d;
-    --main-gray: #303841;
+    --light-blue: #80F2E7;
+    --main-blue: #518C81;
+    --main-gray: #323D40;
+    --main-black: #260112;
 }
 
 /* Base reset */
@@ -106,9 +107,10 @@ img {
     top: 0;
     left:0;
     width: 100%;
-    background: var(--main-red);
+    background: var(--light-blue);
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
     z-index: 10;
+    
 }
 
 .nav-list {
@@ -130,10 +132,12 @@ img {
     display: block;
     font-size: 2.2rem;
     padding: 2rem;
+    color: #260112;
 }
 
 .nav-list a:hover {
     background: var(--main-blue);
+    color: var(--light-blue);
 }
 
 /* Welcome Section */
@@ -153,7 +157,7 @@ img {
     font-size: 3rem;
     font-weight: 200;
     font-style: italic;
-    color: var(--main-red);
+    color: var(--light-blue);
 }
 
 /* Projects Section */
@@ -237,7 +241,7 @@ img {
 }
 
 .btn-show-all:hover {
-    background: var(--main-red);
+    background: var(--light-blue);
 }
 
 .btn-show-all:hover > i {
@@ -305,7 +309,7 @@ footer {
     justify-content: space-evenly;
     padding: 2rem;
     background: var(--main-gray);
-    border-top: 4px solid var(--main-red);
+    border-top: 4px solid var(--light-blue);
 }
 
 footer > p {
