@@ -1,4 +1,145 @@
-* {
+*{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+:root{
+  --pale-blue-2: hsl(225, 100%, 94%);
+  --pale-blue-1: hsl(225, 100%, 98%);
+  --bright-blue: hsl(245, 75%, 52%);
+  --bright-blue-hover: hsl(245, 75%, 65%);
+  --desaturated-blue: hsl(224, 23%, 55%);
+  --dark-blue: hsl(223, 47%, 23%);
+}
+
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-image: url(./images/pattern-background-desktop.svg);
+    background-repeat: no-repeat;
+    background-color: var(--pale-blue-2);
+    background-size: contain;
+    
+}
+
+button{
+    border: none;
+    outline: none;
+    background:none;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: inherit;
+}
+
+.card {
+    margin: auto;
+    background-color: #fff;
+    width: 450px;
+    border-radius: 18px;
+    overflow: hidden;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.card-body {
+    padding: 2.8rem;
+    text-align: center;
+    font-size: 16px;
+}
+.card-body > h1 {
+    color: var(--dark-blue);
+    margin-bottom: 15px;
+    font-weight: 900;
+}
+
+.card-img{
+    height: 210px;
+    background-image: url(./images/illustration-hero.svg);
+    background-position: center;
+
+}
+.card-body > p{
+    color: var(--desaturated-blue);
+    margin-bottom: 20px;
+    padding: 0 20px;
+}
+
+.plan {
+   background-color: var(--pale-blue-1);
+   display: flex;
+   padding: 20px;
+   border-radius: 8px;
+   align-items: center; 
+}
+
+.plan-label {
+    margin-left: 15px;
+}
+
+.plan-label >h4 {
+    color: var(--dark-blue);
+    font-weight: 900;
+    margin-bottom: 4px;
+
+}
+
+.plan-label > p{
+    color: var(--desaturated-blue);
+}
+.plan > button {
+    margin-left: auto;
+    color: var(--bright-blue);
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.plan > button:hover{
+    text-decoration: none;
+    color: var(--bright-blue-hover);
+}
+
+.confirm-btn{
+    display: block;
+    margin: 25px auto;
+    background: var(--bright-blue);
+    color: #fff;
+    width: 100%;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 5px 20px var(--bright-blue-hover);
+}
+
+.cancel-btn {
+    color:var(--desaturated-blue)
+}
+
+.attribution {
+    text-align: center;
+    padding: 10px;
+}
+@media (max-width:500px){
+    body {
+        background-image: url(./images/pattern-background-mobile.svg);
+        background-size: cover;
+    }
+    .card {
+        width: 90vw;
+        max-width: 330px;
+    }
+    .card-body{
+        padding: 2rem;
+    }
+    .card-body >h1 {
+        font-size: 25px;
+    }
+    .card-body >p {
+        font-size: 14px;
+        padding: 0 15px;
+    }
+    .plan {
+        font-size: 12px;
+    }
 }
