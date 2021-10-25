@@ -1,3 +1,129 @@
+
+:root{
+--dark-magenta: hsl(300, 43%, 22%);
+--soft-pink: hsl(333, 80%, 67%);
+--grayish-magenta: hsl(303, 10%, 53%);
+--light-grayish-magenta: hsl(300, 24%, 96%);
+--white: hsl(0, 0%, 100%);
+}
+
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+  font-family: "Spartan",sans-serif;
+  background-image: url(images/bg-pattern-top-desktop.svg);
+  
+}
+section h1{
+  color: var(--dark-magenta);
+  font-size: 3em;
+  font-weight: 700;
+  margin-bottom: 0.25em;
+  
+}
+.first-content{
+  display: flex;
+  align-content: center;
+  width: 600px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 200px;
+
+}
+.text-content > p{
+  color: var(--grayish-magenta);
+  line-height: 1.5em;
+  margin-bottom: 3em;
+  width: 450px;
+}
+.review{
+  float: right;
+  margin-right: 60px;
+}
+.stars{
+  padding-left: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  
+  
+}
+.stars1{
+  background-color: var(--light-grayish-magenta);
+  height: 60px;
+  width: 450px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+  
+}
+.stars2{
+  background-color: var(--light-grayish-magenta);
+  height: 60px;
+  width: 450px;
+  margin-left: 50px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+}
+.stars3{
+  background-color: var(--light-grayish-magenta);
+  height: 60px;
+  width: 450px;
+  margin-left: 100px;
+  padding-left: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 5px;
+}
+
+.second-content{
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 30px;
+  
+}
+
+.client-name{
+  float: right;
+  margin-right: 160px;
+}
+.client-name h3{
+  color: var(--white);
+  
+}
+.client-name p{
+  color: var(--soft-pink);
+}
+
+.cards{
+  background-color: var(--dark-magenta);
+  width: 400px;
+  height: 250px;
+  border-radius: 10px;
+  padding: 20px; 
+}
+
+.rounded-img{
+  border-radius: 50%;
+  width:40px;
+  height:40px;
+}
+.card-testimonial{
+  margin-top: 20px;
+  color:var(--white)
+
+}
 .attribution {
     font-size: 11px;
     text-align: center;
