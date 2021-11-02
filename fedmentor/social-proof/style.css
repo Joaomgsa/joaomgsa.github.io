@@ -16,7 +16,7 @@
 }
 body{
   font-family: "Spartan",sans-serif;
-  background-image: url(images/bg-pattern-top-desktop.svg);
+ 
   
 }
 section h1{
@@ -33,7 +33,7 @@ section h1{
   padding-top: 100px;
   padding-bottom: 100px;
   padding-left: 200px;
-
+  background-image: url(images/bg-pattern-top-desktop.svg);
 }
 .text-content > p{
   color: var(--grayish-magenta);
@@ -44,6 +44,8 @@ section h1{
 .review{
   float: right;
   margin-right: 60px;
+  font-weight: 500;
+  font-size: 1em;
 }
 .stars{
   padding-left: 50px;
@@ -91,7 +93,7 @@ section h1{
   padding-left: 40px;
   padding-right: 40px;
   padding-bottom: 30px;
-  
+  background-image: url(images/bg-pattern-bottom-desktop.svg);
 }
 
 .client-name{
@@ -106,13 +108,20 @@ section h1{
   color: var(--soft-pink);
 }
 
-.cards{
+.cards, .cards2, .cards3 {
   background-color: var(--dark-magenta);
   width: 400px;
   height: 250px;
   border-radius: 10px;
   padding: 20px; 
 }
+.cards2 {
+  margin-top: 20px;
+}
+.cards3 {
+  margin-top: 40px;
+}
+
 
 .rounded-img{
   border-radius: 50%;
@@ -127,6 +136,7 @@ section h1{
 .attribution {
     font-size: 11px;
     text-align: center;
+    
   }
   .attribution a {
     color: hsl(228, 45%, 44%);

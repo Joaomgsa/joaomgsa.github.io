@@ -15,7 +15,7 @@ ul {
     list-style: none;
 }
 section{
-    
+    display: flexbox;
     border-bottom: 1px solid grey;
 }
 #img-link{
@@ -28,19 +28,14 @@ section{
 .highlighted{
     background-color: yellow;
 }
-.nav {
-    display: flex;
-    justify-content: flex-end;
-    position: fixed;
-    top: 0;
-    left:0;
-    width: 100%;
-    background: whitesmoke;
-    z-index: 10;
-    
-}
-
-.nav-list {
-    display: flex;
-    margin-right: 2rem;
+.formulario{
+   display: flex;
+   flex-direction: column;
+    margin-top: 10px;
+    background-color: #FFFF99;
+    width: fit-content;
+    padding: 15px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
