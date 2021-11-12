@@ -34,3 +34,4 @@ Tecnologias
 =============
 O curso por ser uma formação inicial em desenvolvimento web apenas utiliza HTML5 e CSS3.
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomgsa&hide=html&layout=compact&theme=buefy" />
+![](https://komarev.com/ghpvc/?username=seu_usuário&color=blue&style=flat
