@@ -1,4 +1,4 @@
- Fala Pessoal, bem vindos ao meu repositório inicial do github.
+
 
 
 Tabela de Conteúdos
@@ -33,6 +33,8 @@ Paginas-Desenvolvidas
 Tecnologias
 =============
 O curso por ser uma formação inicial em desenvolvimento web apenas utiliza HTML5 e CSS3.
+
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomgsa&hide=html&layout=compact&theme=buefy" />
 
-https://komarev.com/ghpvc/?username=joaomgsa&color=blue&style=flat
+![](https://komarev.com/ghpvc/?username=joaomgsa)
+
