@@ -1,0 +1,11 @@
+.carrousel-image-size{
+  height: 600px;  
+}
+.container-style {
+    display: grid;   
+    grid-template-columns: 381px 381px 381px;
+    gap: 60px;
+    max-width: 1234px;
+    margin: 0 auto;
+    margin-top: 4rem;
+}
