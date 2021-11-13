@@ -33,10 +33,7 @@ Depois do SoloLearn comecei a fazer os desafios do <a href="https://www.frontend
  <ul>
         <li><a href="https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj" target="_blank">Order Summary</a></li>
         <li><a href="https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62" target="_blank">Stats preview card</a></li>
-        <li><a href="https://codepen.io/joaomgsa/pen/OJgPMMM" target="_blank"> Product landing page</a>
-        <li><a href="https://codepen.io/joaomgsa/pen/OJgyMxJ" target="_blank">Technical Documentarion page</a>
-        <li><a href="https://codepen.io/joaomgsa/pen/NWgddXx" target="_blank">Personal portifolio page.</a> 
-    </ul>
+ </ul>
 
 
 
