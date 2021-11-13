@@ -47,6 +47,9 @@ Depois de alguns cursos e um Hackathon consegui uma vaga no curso são 6 meses d
 Esse momento em que comecei a escrever a jornada estamos no terceiro módulo do curso o repositório vai ser atualizado semanalmente.
 
 
+freeCodeCamp - javaScript
+========================
+
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomgsa&hide=html&layout=compact&theme=buefy" />
 
