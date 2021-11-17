@@ -46,10 +46,20 @@ Depois de alguns cursos e um Hackathon consegui uma vaga no curso são 6 meses d
 
 Esse momento em que comecei a escrever a jornada estamos no terceiro módulo do curso o repositório vai ser atualizado semanalmente.
 
+ <ul>
+        <li>Modulo 1 SoftSkills </li>
+        <li>Modulo 2 Orientação a objetos com Java </li>
+        <li>Modulo 3 Bootstrap (HTML/CSS/JS) - C# e DB (PostgreeSQL) </li>
+       
+ </ul>
 
-freeCodeCamp - javaScript
+
+freeCodeCamp - javaScript 
 ========================
-
+ Como complemento as aulas do módulo 3:
+ 
+ https://www.freecodecamp.org/learn/front-end-development-libraries/
+ 
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaomgsa&hide=html&layout=compact&theme=buefy" />
 
